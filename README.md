@@ -10,7 +10,9 @@ class Estudiante:
         self.Nombre = "Lucas Jorge Ocampo"
         self.Legajo = "203.899-7"
         self.Barrio = "Villa Urquiza"       
-
+        self.Descripcion = "me gustan muchos los jueguitos, juego mucho cs. 
+	mi comida favorita es la hamburguesa y mi color favorito el violeta."
+    
     def saludo(self):
         print("Gracias por vistar mi readme")
 
