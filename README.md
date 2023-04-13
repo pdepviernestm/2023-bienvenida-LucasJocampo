@@ -12,7 +12,7 @@ class Estudiante:
         self.Barrio = "Villa Urquiza"       
         self.Descripcion = "me gustan muchos los jueguitos, juego mucho cs. 
 	mi comida favorita es la hamburguesa y mi color favorito el violeta."
-    
+    	
     def saludo(self):
         print("Gracias por vistar mi readme")
 
@@ -20,3 +20,6 @@ class Estudiante:
 yo = Estudiante()
 yo.saludo()
 ```
+Foto:
+
+![Foto Perfil](https://user-images.githubusercontent.com/83137306/231812274-c2a9f49c-a278-4bf3-b125-fa3b94e3aef6.jpeg)
